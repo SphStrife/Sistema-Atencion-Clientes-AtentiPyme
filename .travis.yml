@@ -1,7 +1,0 @@
-language: java
-jdk:
-  - openjdk17
-
-script:
-  - javac HolaMundo.java
-  - java HolaMundo
